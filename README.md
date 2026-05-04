@@ -40,12 +40,10 @@ Collaboration, internships, and any opportunity to keep learning and working alo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hectorDev884&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorDev884&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/hectorDev884?style=flat&label=Followers&color=4479A1)](https://github.com/hectorDev884)
+[![GitHub User's stars](https://img.shields.io/github/stars/hectorDev884?style=flat&label=Total%20Stars&color=4479A1)](https://github.com/hectorDev884)
 
 ---
 
