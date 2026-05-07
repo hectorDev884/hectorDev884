@@ -19,7 +19,6 @@ I'm a backend-focused developer with a sharp eye for critical thinking and a pas
 ## 🚀 Currently
 
 - 🎓 Studying **Ingeniería Informática**
-- 💼 Working as a **Backend Developer**
 - 🤖 Deepening my knowledge of **AI-assisted development**, secure deployments, and backend architecture
 
 ---
